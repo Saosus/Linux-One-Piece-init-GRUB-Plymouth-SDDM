@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Luffy Gear Five Plymouth
+Description=Laughthing
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/luffyNika
+ScriptFile=/usr/share/plymouth/themes/luffyNika/luffyNika.script

@@ -1,0 +1,22 @@
+desktop-image: "luffy-optimized.jpg"
+desktop-image-scale-method: "padding"
+
+title-text: ""
+
++ boot_menu {
+    left = 75%-540
+    width = 900
+    top = 60%-360
+    height = 900
+    icon_width = 70
+    icon_height = 70
+    item_height = 70
+    item_padding = 1 
+    item_icon_space = 5
+    item_spacing = 40
+    item_font = "Thunderman 48"
+    item_color = "#a04000"
+    selected_item_color = "#145a32"
+}
+
+terminal-font: "Terminus Regular 14"
