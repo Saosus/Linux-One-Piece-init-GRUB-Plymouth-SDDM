@@ -12,4 +12,6 @@
 2) So, as you download his repo, put the `one_piece.conf` file into `/usr/share/sddm/themes/sddm-astronaut-theme/Themes/` dir
 3) Put the `png` and `mp4` files into `Background/` dir
 
+I found some cool wallpapers here: https://wallpapers-clan.com/desktop-wallpapers/category/anime/one-piece/
+
 And remember, you always can read manuals of GRUB and Plymouth configs or ask AI for help:) Because it's my first time make README description of my rice (and rice at all), and I don't know is it mostly understandable to set for most of people
