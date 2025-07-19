@@ -2,7 +2,7 @@
 1) Put the **GRUB_onepiece** file into `/boot/grub/themes/` directory
 2) You need to download `Terminus` and `Thunderman` fonts (or whatever fonts you want)
 3) GRUB need pf2 format fonts, so you can use command `sudo grub-mkfont -o <output pf2 file> <input font file>`
-4) After settings, do `sudo grub-mkconfig -o /boot/grub/grub.cfg` command OR use grub-customizer
+4) After settings, сhoose your theme in `/etc/default/grub` and do `sudo grub-mkconfig -o /boot/grub/grub.cfg` command OR use `grub-customizer`
 # Plymouth configuration
 1) Put the **luffyNika** dir into `/usr/share/plymouth/themes`
 2) Whatever gif you use (luffyNika/ already have one) you need to convert them into frames. Use that command: `ffmpeg -i luffyNika.gif animation%d.png`
